@@ -1,3 +1,3 @@
 # hello-world
-Beginner forever
+Beginner forever.
 Well, it is the very beginning of smthg!
